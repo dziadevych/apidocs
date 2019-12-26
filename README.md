@@ -1,4 +1,4 @@
-# apidocs
+# PayMIR API for RUB
 # Deposit:
 To deposit RUB through PayMIR a user receives an invoice with their unique ID (cliendID) and pays on their bank.
 
